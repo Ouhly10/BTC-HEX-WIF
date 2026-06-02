@@ -2,7 +2,7 @@
   "name": "Bitcoin Key Converter — HEX إلى Taproot",
   "short_name": "BTC Keys",
   "description": "تحويل المفتاح الخاص HEX إلى WIF وعنوان Taproot وP2WPKH",
-  "start_url": "./btc-Hex-Wif.html",
+  "start_url": "./BTCWIF.html",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait-primary",
